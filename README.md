@@ -1,0 +1,2 @@
+# BaiduTranslation_WordGuessingAssistant
+百度翻译疯狂猜词的辅助程序
